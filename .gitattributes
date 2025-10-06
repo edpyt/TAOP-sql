@@ -1,1 +1,17 @@
 *.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/f1db.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/raw.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/chinook.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/eav.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/moma.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/sample.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/sandbox.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/geolite.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/geoname.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/imdb.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/lastfm.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/opendata.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/twcache.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/magic.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/public.sql filter=lfs diff=lfs merge=lfs -text
+TheArtOfPostgreSQL-database-sql/tweet.sql filter=lfs diff=lfs merge=lfs -text
